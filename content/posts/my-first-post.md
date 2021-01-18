@@ -7,7 +7,9 @@ tags:
 - spf13-vim
 lastmod: 2020-12-23
 date: 2020-04-06
-categories: [一级分类A,二级分类A1]
+categories: 
+- 一级分类A
+- 二级分类A1
 
 slug: spf13
 draft: false
